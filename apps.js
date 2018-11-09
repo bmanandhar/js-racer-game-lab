@@ -1,1 +1,1 @@
-console.log("Racing Game being created!")
+console.log("Racer Game being created!")
